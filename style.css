@@ -605,7 +605,10 @@
    }
 
    .img-1{
-      margin-left: 10px;
+      margin-left: 0;
+       width: 100px;
+       height: 300px;
+       margin-right:10px;
    }
 
    #investment-fee{

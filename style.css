@@ -645,6 +645,12 @@
    text-align: start;
  }
 
+ #cart .cart-1 img{
+   width: 100%;
+   margin-bottom: 0;
+   padding: 0 0;
+}
+
  #cart button{
    width: 80px;
     height: 30px;

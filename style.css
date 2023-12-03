@@ -675,9 +675,16 @@
 }
 
 #cart .cart-1{
-   width: 100px;
-   height: 50px;
-}
+      width: 100px;
+      text-align: center;
+      padding: 25px 15px;
+      box-shadow: 20px 20px 34px rgba(0, 0, 0, 0.03);
+      border: 3px solid #0000;
+      background: #fff;
+      border-radius: 4px;
+      margin: 15px 0;
+  
+   }
 
 .client-in{
    display: flex;

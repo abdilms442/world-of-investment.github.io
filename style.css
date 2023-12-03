@@ -218,7 +218,7 @@
  #cart .cart-1{
     width: 180px;
     text-align: center;
-    padding: 10px 15px;
+    padding: 25px 15px;
     box-shadow: 20px 20px 34px rgba(0, 0, 0, 0.03);
     border: 3px solid #0000;
     background: #fff;
@@ -638,6 +638,10 @@
    width: 100px;
    text-align: center;
    margin-left: 10px;
+}
+
+#cart .cart-1{
+   padding: 10px 15px;
 }
 
 #cart .cart-1 p{

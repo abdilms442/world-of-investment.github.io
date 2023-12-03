@@ -216,7 +216,7 @@
     margin-bottom: 50px;
 }
  #cart .cart-1{
-    width: 150px;
+    width: 180px;
     text-align: center;
     padding: 25px 15px;
     box-shadow: 20px 20px 34px rgba(0, 0, 0, 0.03);
@@ -667,6 +667,11 @@
 
 #video .video-box img{
    height: 200px;
+}
+
+#cart .cart-1{
+   width: 100px;
+   height: 50px;
 }
 
 .client-in{

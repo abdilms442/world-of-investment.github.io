@@ -648,6 +648,7 @@
 #cart .cart-1 p{
    font-size: 10px;
    text-align: start;
+   margin-bottom: 0;
  }
 
  #cart .cart-1 img{

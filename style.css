@@ -256,17 +256,11 @@
     text-decoration: none;
  }
 
- #cart i{
-    color: #00a859;
-    font-size: 16px;
-    font-weight: bold;
-    cursor: pointer;
- }
-
  /* why-ab-option */
 
  #why-ab-option{
     display: flex;
+    flex-wrap: wrap;
     align-items: center;
     justify-content: space-between;
     margin-bottom: 50px;

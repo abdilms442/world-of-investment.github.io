@@ -688,7 +688,7 @@
 
 #why-ab-option p{
    font-size: 12px;
-   width: 180px;
+   word-break: break-all;
 }
 
 .video-head p{

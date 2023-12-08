@@ -222,6 +222,7 @@
     background: #fff;
     border-radius: 4px;
     margin-bottom: 10px;
+    transition: .5s;
 
  }
 
@@ -537,7 +538,7 @@
 @media(max-width: 700px){
    .nav-bar{
        display: flex;
-       flex-direction: column;
+       flex-direction: column;right: -300px;
    }
 
    .nav-bar p{
@@ -688,6 +689,7 @@
 
 #why-ab-option p{
    font-size: 12px;
+   text-align: center;
 }
 
 .video-head p{

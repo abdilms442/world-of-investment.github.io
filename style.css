@@ -538,7 +538,8 @@
 @media(max-width: 700px){
    .nav-bar{
        display: flex;
-       flex-direction: column;right: -300px;
+       flex-direction: column;
+       right: -300px;
    }
 
    .nav-bar p{
